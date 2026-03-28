@@ -10,16 +10,6 @@
         <!-- Social Media Icons -->
         <div class="flex space-x-4">
 
-          <!-- Icon & Link Instagram -->
-          <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" class="text-white hover:text-accent transition">
-            <img src="../assets/icons/footer/instagram.svg" alt="Instagram" class="w-6 h-6">
-          </a>
-
-          <!-- Icon & Link LinkedIn -->
-          <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" class="text-white hover:text-accent transition">
-            <img src="../assets/icons/footer/linkedin.svg" alt="LinkedIn" class="w-6 h-6">
-          </a>
-
           <!-- Icon & Link Github -->
           <a href="https://github.com/Chrisimana" target="_blank" rel="noopener noreferrer" class="text-white hover:text-accent transition">
             <img src="../assets/icons/footer/github.svg" alt="Github" class="w-6 h-6">
@@ -27,9 +17,9 @@
         </div>
       </div>
 
-      <!-- Quick Links Section -->
+      <!-- Navigasi Links Section -->
       <div>
-        <h4 class="font-bold mb-4 text-while">Quick Links</h4>
+        <h4 class="font-bold mb-4 text-while">Navigasi</h4>
         <ul class="space-y-2">
 
           <!-- Link ke halaman Beranda -->
@@ -47,31 +37,6 @@
           <!-- Link ke halaman Smart Action -->
           <li><router-link to="/smart-action" class="hover:text-accent transition">Smart Action</router-link></li>
         </ul>
-      </div>
-
-      <!-- Contact Section -->
-      <div>
-        <h4 class="font-bold mb-4 text-while">Contact</h4>
-        <div class="space-y-3">
-
-          <!-- Icon & Email -->
-          <div class="flex items-start">
-            <img src="../assets/icons/footer/email.svg" alt="Email" class="w-4 h-4 mt-1 mr-2">
-            <span>Email</span>
-          </div>
-
-          <!-- Icon & Nomor telepon -->
-          <div class="flex items-start">
-            <img src="../assets/icons/footer/phone.svg" alt="Phone" class="w-4 h-4 mt-1 mr-2">
-            <span>Nomor Telepon </span>
-          </div>
-
-          <!-- Icon & Alamat -->
-          <div class="flex items-start">
-            <img src="../assets/icons/footer/address.svg" alt="Location" class="w-4 h-4 mt-1 mr-2">
-            <span>Alamat</span>
-          </div>
-        </div>
       </div>
     </div>
 
