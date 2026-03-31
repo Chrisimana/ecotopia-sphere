@@ -6,7 +6,6 @@
 ![Vite](https://img.shields.io/badge/Vite-5.1-646CFF?style=flat&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vue Router](https://img.shields.io/badge/Vue_Router-4.3-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat)
 
